@@ -1,0 +1,174 @@
+{
+  "brand": "transportoradea.com",
+  "nav": {
+    "pricing": "Preise",
+    "vehicle": "Fahrzeug",
+    "whyUs": "Warum Wir",
+    "howItWorks": "So Funktioniert's",
+    "destinations": "Ziele",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "lang": {
+    "en": "EN",
+    "de": "DE",
+    "ro": "RO"
+  },
+  "hero": {
+    "headline": "Privattransfer von Oradea zum Flughafen Budapest und in die Region",
+    "subheadline": "Komfortable, direkte, Tür-zu-Tür-Fahrten in einem modernen Škoda Octavia (2019) mit Climatronic-Klimaanlage und Automatikgetriebe. Keine versteckten Kosten — nur feste, transparente Preise.",
+    "cta": "Per WhatsApp buchen",
+    "trust": "✓ Festpreise · ✓ 24/7 verfügbar · ✓ Tür-zu-Tür-Service"
+  },
+  "pricing": {
+    "heading": "Beliebte Strecken & Festpreise",
+    "subheading": "Der Preis bleibt gleich, unabhängig vom Verkehr. Alle Preise gelten für 1–4 Passagiere.",
+    "banner": "🛡️ Festpreise — Keine Überraschungen, kein laufendes Taxameter. Der Preis den Sie sehen, ist der Preis den Sie zahlen.",
+    "passengers": "1–4 Personen",
+    "routes": [
+      {
+        "name": "Oradea ⇄ Flughafen Budapest (Liszt Ferenc)",
+        "price": "180 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Debrecen",
+        "price": "60 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Temeswar",
+        "price": "120 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Klausenburg",
+        "price": "120 EUR"
+      }
+    ],
+    "customNote": "Andere Strecke gewünscht? Schreiben Sie uns auf WhatsApp für ein individuelles Angebot.",
+    "customNoteLink": "WhatsApp"
+  },
+  "vehicle": {
+    "heading": "Reisen Sie in Komfort",
+    "name": "Škoda Octavia (2019)",
+    "features": [
+      {
+        "icon": "🌡️",
+        "text": "Climatronic Zwei-Zonen-Klimaanlage"
+      },
+      {
+        "icon": "⚙️",
+        "text": "Automatikgetriebe für eine sanfte Fahrt"
+      },
+      {
+        "icon": "🧳",
+        "text": "Geräumiger Kofferraum — viel Platz für Gepäck"
+      },
+      {
+        "icon": "🛡️",
+        "text": "Moderne Sicherheitsausstattung & sauberer Innenraum"
+      }
+    ]
+  },
+  "whyUs": {
+    "heading": "Warum Wir",
+    "cards": [
+      {
+        "icon": "⏰",
+        "title": "24/7 Verfügbarkeit & Pünktlichkeit",
+        "description": "Wir überwachen Ihren Flugstatus für pünktliche Abholung — auch bei Verspätung passen wir uns an."
+      },
+      {
+        "icon": "🗣️",
+        "title": "Mehrsprachiger Berufsfahrer",
+        "description": "Ihr Fahrer ist ein Profi mit 25 Jahren Erfahrung und spricht Englisch, Niederländisch, Rumänisch und Ungarisch — klare Kommunikation in Ihrer Sprache."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Häufig Gestellte Fragen",
+    "subheading": "Antworten auf die häufigsten Fragen zum Privattransfer ab Oradea",
+    "items": [
+      {
+        "question": "Wie viel kostet der Transfer von Oradea zum Flughafen Budapest?",
+        "answer": "Der Privattransfer von Oradea zum Flughafen Budapest Liszt Ferenc kostet 180 EUR für 1-4 Passagiere. Der Preis ist fest und enthält alle Gebühren, unabhängig vom Verkehr oder Verzögerungen."
+      },
+      {
+        "question": "Wie viele Personen passen ins Auto und wie viel Gepäck kann ich mitnehmen?",
+        "answer": "Der Škoda Octavia 2019 Kombi bietet Platz für maximal 4 Passagiere. Der geräumige Kofferraum bietet genug Platz für 4 große Koffer und Handgepäck."
+      },
+      {
+        "question": "In welchen Sprachen spricht der Fahrer?",
+        "answer": "Der Fahrer ist ein Profi mit 25 Jahren Erfahrung und spricht fließend Englisch, Niederländisch, Rumänisch und Ungarisch. Die Kommunikation ist klar und ohne Sprachbarrieren."
+      },
+      {
+        "question": "Kann ich mit Karte bezahlen oder nur bar?",
+        "answer": "Wir akzeptieren Barzahlung in EUR oder RON. Für andere Zahlungsmethoden kontaktieren Sie uns bitte vor der Fahrt über WhatsApp."
+      },
+      {
+        "question": "Wie lange dauert die Fahrt von Oradea nach Budapest?",
+        "answer": "Die Fahrt von Oradea zum Flughafen Budapest dauert etwa 2,5-3 Stunden, abhängig vom Verkehr und der Wartezeit an der Grenze. Wir überwachen die Straßenverhältnisse in Echtzeit."
+      },
+      {
+        "question": "Bieten Sie auch Transfers zum Flughafen Debrecen an?",
+        "answer": "Ja, wir bieten Privattransfer von Oradea zum Flughafen Debrecen zum Festpreis von 60 EUR für 1-4 Passagiere an. Die Fahrt dauert etwa 1 Stunde."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "So Funktioniert's",
+    "subheading": "Die Buchung eines Privattransfers ab Oradea ist einfach und schnell in nur 3 Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Kontaktieren Sie uns über WhatsApp",
+        "description": "Schreiben Sie uns Ihr Datum, Ihre Uhrzeit und Ihr Ziel. Wir bestätigen die Verfügbarkeit innerhalb weniger Minuten."
+      },
+      {
+        "number": "2",
+        "title": "Sofortige Bestätigung",
+        "description": "Erhalten Sie eine Buchungsbestätigung mit allen Details: Festpreis, Abholpunkt und Fahrernummer."
+      },
+      {
+        "number": "3",
+        "title": "Entspannte Reise",
+        "description": "Der Fahrer holt Sie an Ihrer Tür ab und bringt Sie direkt zum Ziel. Maximaler Komfort, keine Sorgen."
+      }
+    ]
+  },
+  "destinations": {
+    "heading": "Transferziele",
+    "subheading": "Wir bieten Privattransfers ab Oradea zu den wichtigsten Flughäfen und Städten der Region",
+    "items": [
+      {
+        "name": "Oradea → Flughafen Budapest (Liszt Ferenc)",
+        "description": "Der beliebteste Privattransfer Oradea Budapest. Internationale Strecke von etwa 230 km über den Grenzübergang Borș. Ideal für internationale Flüge aus der ungarischen Hauptstadt."
+      },
+      {
+        "name": "Oradea → Debrecen",
+        "description": "Schneller Oradea Debrecen Transfer für Low-Cost-Flüge oder Geschäftsreisen. Nur 60 km, etwa 1 Stunde Fahrt über den Grenzübergang Borș."
+      },
+      {
+        "name": "Oradea → Temeswar",
+        "description": "Privattransfer Oradea Temeswar für den Flughafen Traian Vuia oder Reisen ins Banat. Direkte Strecke von etwa 160 km durch das Apuseni-Gebirge."
+      },
+      {
+        "name": "Oradea → Klausenburg",
+        "description": "Privattransfer Oradea Klausenburg für den internationalen Flughafen Avram Iancu. Internationale Strecke von 150 km durch das Kalotaszeg, garantierte Landschaft."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Kontakt",
+    "subheading": "Schreiben Sie uns auf WhatsApp für eine schnelle Buchung oder ein individuelles Angebot"
+  },
+  "footer": {
+    "cta": "Kontaktieren Sie uns über WhatsApp",
+    "phone": "📞 +40 752 562 503",
+    "email": "✉️ kavarscars@gmail.com",
+    "copyright": "© 2025 transportoradea.com. Alle Rechte vorbehalten."
+  },
+  "seo": {
+    "title": "Transfer Oradea nach Flughafen Budapest | Privattransfer | transportoradea.com",
+    "description": "Privattransfer von Oradea zum Flughafen Budapest, Debrecen, Temeswar & Klausenburg. Festpreise, moderner Škoda Octavia, Tür-zu-Tür-Service. Buchung per WhatsApp!",
+    "keywords": "Transfer Oradea nach Flughafen Budapest, Oradea Debrecen Taxi, Privattransfer Oradea Klausenburg, Flughafentransfer Ungarn Rumänien"
+  }
+}

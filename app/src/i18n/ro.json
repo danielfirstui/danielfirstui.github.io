@@ -1,0 +1,174 @@
+{
+  "brand": "transportoradea.com",
+  "nav": {
+    "pricing": "Prețuri",
+    "vehicle": "Vehicul",
+    "whyUs": "De Ce Noi",
+    "howItWorks": "Cum Funcționează",
+    "destinations": "Destinații",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "lang": {
+    "en": "EN",
+    "de": "DE",
+    "ro": "RO"
+  },
+  "hero": {
+    "headline": "Transport Privat și Sigur din Oradea către Aeroportul Budapesta și Destinații Regionale",
+    "subheadline": "Călătorii confortabile, directe, de la ușă la ușă, într-un Škoda Octavia modern (2019) cu aer condiționat Climatronic și transmisie automată. Fără taxe ascunse — doar prețuri fixe și transparente.",
+    "cta": "Rezervă pe WhatsApp",
+    "trust": "✓ Prețuri fixe · ✓ Disponibil 24/7 · ✓ Serviciu de la ușă la ușă"
+  },
+  "pricing": {
+    "heading": "Rute Populare și Prețuri Fixe",
+    "subheading": "Tariful rămâne neschimbat, indiferent de trafic. Toate prețurile sunt valabile pentru 1–4 pasageri.",
+    "banner": "🛡️ Prețuri Fixe — Nicio surpriză, niciun aparat de taxat. Prețul afișat este prețul plătit.",
+    "passengers": "1–4 persoane",
+    "routes": [
+      {
+        "name": "Oradea ⇄ Aeroportul Budapesta (Liszt Ferenc)",
+        "price": "180 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Debrecen",
+        "price": "60 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Timișoara",
+        "price": "120 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Cluj-Napoca",
+        "price": "120 EUR"
+      }
+    ],
+    "customNote": "Aveți nevoie de altă rută? Scrieți-ne pe WhatsApp pentru o ofertă personalizată.",
+    "customNoteLink": "WhatsApp"
+  },
+  "vehicle": {
+    "heading": "Călătoriți în Confort",
+    "name": "Škoda Octavia (2019)",
+    "features": [
+      {
+        "icon": "🌡️",
+        "text": "Aer condiționat Climatronic cu două zone"
+      },
+      {
+        "icon": "⚙️",
+        "text": "Transmisie automată pentru o călătorie lină"
+      },
+      {
+        "icon": "🧳",
+        "text": "Portbagaj spațios — suficient loc pentru bagaje"
+      },
+      {
+        "icon": "🛡️",
+        "text": "Dotări moderne de siguranță și interior curat"
+      }
+    ]
+  },
+  "whyUs": {
+    "heading": "De Ce Să Ne Alegeți",
+    "cards": [
+      {
+        "icon": "⏰",
+        "title": "Disponibilitate & Punctualitate 24/7",
+        "description": "Monitorizăm starea zborului dumneavoastră pentru a asigura preluarea la timp — chiar și în caz de întârziere, ne adaptăm."
+      },
+      {
+        "icon": "🗣️",
+        "title": "Șofer Profesionist Multilingv",
+        "description": "Șoferul dumneavoastră este un profesionist cu 25 de ani experiență, vorbind engleză, olandeză, română și maghiară — comunicare clară în limba dumneavoastră."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Întrebări Frecvente",
+    "subheading": "Răspunsuri la cele mai comune întrebări despre transferul privat Oradea",
+    "items": [
+      {
+        "question": "Cât costă transportul de la Oradea la Aeroportul Budapesta?",
+        "answer": "Transferul privat de la Oradea la Aeroportul Liszt Ferenc Budapesta costă 180 EUR pentru 1-4 pasageri. Prețul este fix și include toate taxele, indiferent de trafic sau întârzieri."
+      },
+      {
+        "question": "Câte persoane încap în mașină și cât bagaj pot lua?",
+        "answer": "În Škoda Octavia 2019 break încap maxim 4 pasageri confortabil. Portbagajul spațios oferă suficient loc pentru 4 valize mari și bagaje de cabină."
+      },
+      {
+        "question": "În ce limbi vorbește șoferul?",
+        "answer": "Șoferul este un profesionist cu 25 de ani experiență și vorbește fluent engleză, olandeză, română și maghiară. Comunicarea este clară și fără bariere lingvistice."
+      },
+      {
+        "question": "Pot plăti cu cardul sau doar cash?",
+        "answer": "Acceptăm plata în cash în EUR sau RON. Pentru alte metode de plată, vă rugăm să ne contactați pe WhatsApp înainte de călătorie."
+      },
+      {
+        "question": "Cât durează drumul de la Oradea la Budapesta?",
+        "answer": "Drumul de la Oradea la Aeroportul Budapesta durează aproximativ 2.5-3 ore, în funcție de trafic și timpul de așteptare la frontieră. Monitorizăm starea drumurilor în timp real."
+      },
+      {
+        "question": "Faceți transfer și la Aeroportul Debrecen?",
+        "answer": "Da, oferim transfer privat de la Oradea la Aeroportul Debrecen la prețul fix de 60 EUR pentru 1-4 pasageri. Durata călătoriei este de aproximativ 1 oră."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "Cum Funcționează",
+    "subheading": "Rezervarea unui transfer privat Oradea este simplă și rapidă în doar 3 pași",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Contactați-ne pe WhatsApp",
+        "description": "Scrieți-ne data, ora și destinația dorită. Vă confirmăm disponibilitatea în câteva minute."
+      },
+      {
+        "number": "2",
+        "title": "Confirmare instantă",
+        "description": "Primiți confirmarea rezervării cu toate detaliile: preț fix, punct de preluare și numărul șoferului."
+      },
+      {
+        "number": "3",
+        "title": "Călătorie relaxantă",
+        "description": "Șoferul vă preia de la ușă și vă duce direct la destinație. Confort maxim, fără griji."
+      }
+    ]
+  },
+  "destinations": {
+    "heading": "Destinații de Transfer",
+    "subheading": "Oferim transport privat de la Oradea către cele mai importante aeroporturi și orașe din regiune",
+    "items": [
+      {
+        "name": "Oradea → Aeroportul Budapesta (Liszt Ferenc)",
+        "description": "Cel mai popular transfer privat Oradea Budapesta. Drum internațional de aproximativ 230 km prin punctul de trecere Borș. Ideal pentru zboruri internaționale din capitala Ungariei."
+      },
+      {
+        "name": "Oradea → Debrecen",
+        "description": "Transfer rapid Oradea Debrecen pentru zboruri low-cost sau deplasări de afaceri. Doar 60 km, drum de aproximativ 1 oră prin punctul de trecere Borș."
+      },
+      {
+        "name": "Oradea → Timișoara",
+        "description": "Transport privat Oradea Timișoara pentru Aeroportul Traian Vuia sau deplasări în Banat. Cursă directă de aproximativ 160 km prin zona montană Apuseni."
+      },
+      {
+        "name": "Oradea → Cluj-Napoca",
+        "description": "Transfer privat Oradea Cluj pentru Aeroportul Internațional Avram Iancu. Drum internațional de 150 km prin Țara Călatei, peisaj pitoresc garantat."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact",
+    "subheading": "Scrieți-ne pe WhatsApp pentru o rezervare rapidă sau pentru o ofertă personalizată"
+  },
+  "footer": {
+    "cta": "Contactează-ne pe WhatsApp",
+    "phone": "📞 +40 752 562 503",
+    "email": "✉️ kavarscars@gmail.com",
+    "copyright": "© 2025 transportoradea.com. Toate drepturile rezervate."
+  },
+  "seo": {
+    "title": "Transport Oradea Aeroport Budapesta | Mașină Privată | transportoradea.com",
+    "description": "Transport privat din Oradea către Aeroportul Budapesta, Debrecen, Timișoara și Cluj. Prețuri fixe, Škoda Octavia modern, serviciu de la ușă la ușă. Rezervă pe WhatsApp!",
+    "keywords": "transport Oradea Aeroport Budapesta, transfer Oradea Debrecen, taxi Oradea Cluj, cursa Oradea Timisoara, masina privata aeroport"
+  }
+}

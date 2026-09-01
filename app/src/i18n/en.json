@@ -1,0 +1,174 @@
+{
+  "brand": "transportoradea.com",
+  "nav": {
+    "pricing": "Pricing",
+    "vehicle": "Vehicle",
+    "whyUs": "Why Us",
+    "howItWorks": "How It Works",
+    "destinations": "Destinations",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "lang": {
+    "en": "EN",
+    "de": "DE",
+    "ro": "RO"
+  },
+  "hero": {
+    "headline": "Private Transfers from Oradea to Budapest Airport & Regional Hubs",
+    "subheadline": "Comfortable, direct, door-to-door rides in a modern Škoda Octavia (2019) with Climatronic AC and automatic transmission. No hidden fees — just fixed, transparent prices.",
+    "cta": "Book via WhatsApp",
+    "trust": "✓ Fixed prices · ✓ 24/7 available · ✓ Door-to-door service"
+  },
+  "pricing": {
+    "heading": "Popular Routes & Fixed Prices",
+    "subheading": "The price stays the same regardless of traffic. All prices are valid for 1–4 passengers.",
+    "banner": "🛡️ Fixed Prices — No surprises, no meter running. The price you see is the price you pay.",
+    "passengers": "1–4 persons",
+    "routes": [
+      {
+        "name": "Oradea ⇄ Budapest Airport (Liszt Ferenc)",
+        "price": "180 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Debrecen",
+        "price": "60 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Timișoara",
+        "price": "120 EUR"
+      },
+      {
+        "name": "Oradea ⇄ Cluj-Napoca",
+        "price": "120 EUR"
+      }
+    ],
+    "customNote": "Need a different route? Message us on WhatsApp for a custom quote.",
+    "customNoteLink": "WhatsApp"
+  },
+  "vehicle": {
+    "heading": "Travel in Comfort",
+    "name": "Škoda Octavia (2019)",
+    "features": [
+      {
+        "icon": "🌡️",
+        "text": "Climatronic dual-zone air conditioning"
+      },
+      {
+        "icon": "⚙️",
+        "text": "Automatic transmission for a smooth ride"
+      },
+      {
+        "icon": "🧳",
+        "text": "Spacious trunk — plenty of room for luggage"
+      },
+      {
+        "icon": "🛡️",
+        "text": "Modern safety features & clean interior"
+      }
+    ]
+  },
+  "whyUs": {
+    "heading": "Why Choose Us",
+    "cards": [
+      {
+        "icon": "⏰",
+        "title": "24/7 Availability & Punctuality",
+        "description": "We monitor your flight status to ensure timely pickup — even if your flight is delayed, we adjust."
+      },
+      {
+        "icon": "🗣️",
+        "title": "Multilingual Professional Driver",
+        "description": "Your driver is a professional with 25 years of experience, speaking English, Dutch, Romanian, and Hungarian — clear communication in your language."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Answers to the most common questions about private transfer from Oradea",
+    "items": [
+      {
+        "question": "How much does the transfer from Oradea to Budapest Airport cost?",
+        "answer": "Private transfer from Oradea to Budapest Liszt Ferenc Airport costs 180 EUR for 1-4 passengers. The price is fixed and includes all fees, regardless of traffic or delays."
+      },
+      {
+        "question": "How many people fit in the car and how much luggage can I bring?",
+        "answer": "The Škoda Octavia 2019 estate comfortably fits up to 4 passengers. The spacious trunk has enough room for 4 large suitcases and carry-on bags."
+      },
+      {
+        "question": "What languages does the driver speak?",
+        "answer": "The driver is a professional with 25 years of experience and speaks English, Dutch, Romanian and Hungarian fluently. Communication is clear with no language barriers."
+      },
+      {
+        "question": "Can I pay by card or only cash?",
+        "answer": "We accept cash payment in EUR or RON. For other payment methods, please contact us on WhatsApp before the trip."
+      },
+      {
+        "question": "How long does the trip from Oradea to Budapest take?",
+        "answer": "The journey from Oradea to Budapest Airport takes approximately 2.5-3 hours, depending on traffic and border crossing wait times. We monitor road conditions in real time."
+      },
+      {
+        "question": "Do you offer transfers to Debrecen Airport?",
+        "answer": "Yes, we offer private transfer from Oradea to Debrecen Airport at a fixed price of 60 EUR for 1-4 passengers. The journey takes approximately 1 hour."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "subheading": "Booking a private transfer from Oradea is simple and quick in just 3 steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Contact us on WhatsApp",
+        "description": "Send us your date, time and destination. We'll confirm availability within minutes."
+      },
+      {
+        "number": "2",
+        "title": "Instant confirmation",
+        "description": "Receive booking confirmation with all details: fixed price, pickup point and driver number."
+      },
+      {
+        "number": "3",
+        "title": "Relaxing journey",
+        "description": "The driver picks you up at your door and takes you directly to your destination. Maximum comfort, no worries."
+      }
+    ]
+  },
+  "destinations": {
+    "heading": "Transfer Destinations",
+    "subheading": "We offer private transfers from Oradea to the most important airports and cities in the region",
+    "items": [
+      {
+        "name": "Oradea → Budapest Airport (Liszt Ferenc)",
+        "description": "The most popular private transfer Oradea Budapest. International route of approximately 230 km via the Borș border crossing. Ideal for international flights from the Hungarian capital."
+      },
+      {
+        "name": "Oradea → Debrecen",
+        "description": "Quick Oradea Debrecen transfer for low-cost flights or business trips. Only 60 km, approximately 1 hour drive via the Borș border crossing."
+      },
+      {
+        "name": "Oradea → Timișoara",
+        "description": "Private transfer Oradea Timisoara for Traian Vuia Airport or trips to Banat. Direct route of approximately 160 km through the Apuseni mountain area."
+      },
+      {
+        "name": "Oradea → Cluj-Napoca",
+        "description": "Private transfer Oradea Cluj for Avram Iancu International Airport. International route of 150 km through Țara Călatei, guaranteed scenic views."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact",
+    "subheading": "Message us on WhatsApp for a quick booking or a personalized quote"
+  },
+  "footer": {
+    "cta": "Contact Us on WhatsApp",
+    "phone": "📞 +40 752 562 503",
+    "email": "✉️ kavarscars@gmail.com",
+    "copyright": "© 2025 transportoradea.com. All rights reserved."
+  },
+  "seo": {
+    "title": "Oradea to Budapest Airport Transfer | Private Car Service | transportoradea.com",
+    "description": "Private transfers from Oradea to Budapest Airport, Debrecen, Timișoara & Cluj. Fixed prices, modern Škoda Octavia, door-to-door service. Book via WhatsApp!",
+    "keywords": "Oradea to Budapest Airport transfer, Oradea Debrecen taxi, private car Oradea Cluj, Oradea Timisoara transport, Budapest airport shuttle Oradea"
+  }
+}
