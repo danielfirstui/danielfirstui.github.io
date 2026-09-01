@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://transportoradea.com/sitemap.xml
