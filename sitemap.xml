@@ -1,105 +1,363 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://transportoradea.com/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/"/>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://transportoradea.com/transfer-budapesta-oradea/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transfer-cluj-oradea/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transfer-debrecen-oradea/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transfer-oradea-budapesta/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transfer-oradea-cluj/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transfer-oradea-debrecen/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transfer-oradea-timisoara/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transfer-timisoara-oradea/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <loc>https://transportoradea.com/transport-oradea-budapesta/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-budapesta/"/>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://transportoradea.com/transport-budapesta-oradea/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-budapesta-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/transport-oradea-cluj/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-cluj/"/>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://transportoradea.com/transport-cluj-oradea/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transport-debrecen-oradea/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transport-oradea-budapesta/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://transportoradea.com/transport-oradea-cluj/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-cluj-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://transportoradea.com/transport-oradea-debrecen/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-debrecen/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/transport-debrecen-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-debrecen-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://transportoradea.com/transport-oradea-timisoara/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-timisoara/"/>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://transportoradea.com/transport-timisoara-oradea/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-timisoara-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/about/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/privacy/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/terms/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/transport-oradea-budapesta/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-budapesta/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/transport-budapesta-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-budapesta-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/transport-oradea-cluj/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-cluj/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/transport-cluj-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-cluj-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/transport-oradea-debrecen/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-debrecen/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/transport-debrecen-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-debrecen-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/transport-oradea-timisoara/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-timisoara/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/transport-timisoara-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-timisoara-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/about/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/about/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/privacy/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/en/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/terms/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/transport-oradea-budapesta/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-budapesta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-budapesta/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/transport-budapesta-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-budapesta-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-budapesta-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/transport-oradea-cluj/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-cluj/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-cluj/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/transport-cluj-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-cluj-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-cluj-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/transport-oradea-debrecen/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-debrecen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-debrecen/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/transport-debrecen-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-debrecen-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-debrecen-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/transport-oradea-timisoara/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-oradea-timisoara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-oradea-timisoara/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/transport-timisoara-oradea/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/transport-timisoara-oradea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/transport-timisoara-oradea/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/about/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/about/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/privacy/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://transportoradea.com/de/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://transportoradea.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://transportoradea.com/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://transportoradea.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://transportoradea.com/terms/"/>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
